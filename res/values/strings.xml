@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NoteTaker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="note">Note</string>
+    <string name="title">Title</string>
+    <string name="save">save</string>
+    <string name="textview">TextView</string>
+    <string name="title_activity_list_notes">ListNotesActivity</string>
+    <string name="create_a_new_note">Create Note</string>
+    <string name="add_note">Add Note</string>
+    <string name="back_button">Back</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+</resources>
