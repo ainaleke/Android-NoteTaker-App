@@ -1,10 +1,34 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.notetaker.ListNotesActivity" >
-    
-    <item android:id="@+id/addNoteItem" 
-    android:title="@string/add_note" 
-    android:showAsAction="always|withText">"
+    tools:context="com.notetaker2.ListNotesActivity" ><item
+        android:id="@+id/add_note" 
+        android:orderInCategory="100"
+        android:title="@string/add_note" 
+        android:showAsAction="always|withText"/>
+   
+    <item android:id="@+id/silver" 
+          android:title="@string/silver" 
+          android:showAsAction="never|withText">
     </item>
+    
+    <item android:id="@+id/teal" 
+          android:title="@string/teal"
+          android:showAsAction="never|withText">
+        
+    </item>
+    
+    <item android:id="@+id/white" 
+          android:title="@string/white"
+          android:showAsAction="never|withText">
+        
+    </item>
+    <item android:id="@+id/cream_yellow" 
+          android:title="@string/cream_yellow" 
+          android:showAsAction="never|withText">
+        
+    </item>
+    
+        
+    
+
 </menu>
